@@ -25,28 +25,5 @@ I'm a **Designer** and **Full-Stack Web Developer** passionate about creating vi
 
 ---
 
-### 📈 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
----
-
-### 📫 Let's Connect
-- **Portfolio**: [Your Portfolio URL](#)
-- **LinkedIn**: (https://www.linkedin.com/in/arjun-khadse-ak/)](#)
-- **GitHub**: [Your GitHub Profile](#)
-
----
-
-### 🚀 Projects
-- **[Project Name](#)**: Brief description of the project.
-- **[Project Name](#)**: Brief description of the project.
-
----
-
-### 💡 Fun Facts
-- I love exploring new design trends and frameworks.
-- I'm always up for a good coffee and code session!
-
-Feel free to reach out and connect. Let's build something amazing together!
 
