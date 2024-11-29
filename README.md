@@ -14,7 +14,6 @@ I'm a **Designer** and **Full-Stack Web Developer** passionate about creating vi
 ### 🌱 Skills and Tools
 #### **Design**
 - UI/UX Design
-- Adobe Creative Suite (Photoshop, Illustrator, XD)
 - Figma
 - Wireframing and Prototyping
 
@@ -34,7 +33,7 @@ I'm a **Designer** and **Full-Stack Web Developer** passionate about creating vi
 
 ### 📫 Let's Connect
 - **Portfolio**: [Your Portfolio URL](#)
-- **LinkedIn**: [Your LinkedIn URL](#)
+- **LinkedIn**: (https://www.linkedin.com/in/arjun-khadse-ak/)](#)
 - **GitHub**: [Your GitHub Profile](#)
 
 ---
