@@ -18,7 +18,7 @@ I'm a **Designer** and **Web Developer** passionate about creating visually appe
 - Wireframing and Prototyping
 
 #### **Development**
-- **Frameworks / CMS: Wordpress
+- Frameworks / CMS: Wordpress
 - **Front-End**: HTML, CSS, JavaScript, React.js, PHP
 - **Back-End**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
