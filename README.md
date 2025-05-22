@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Designer** and **Full-Stack Web Developer** passionate about creating visually appealing and functional web solutions. I thrive on solving complex problems and bringing ideas to life with code and design.
+I'm a **Designer** and **Web Developer** passionate about creating visually appealing and functional web solutions. I thrive on solving complex problems and bringing ideas to life with code and design.
 
 ---
 
@@ -18,7 +18,8 @@ I'm a **Designer** and **Full-Stack Web Developer** passionate about creating vi
 - Wireframing and Prototyping
 
 #### **Development**
-- **Front-End**: HTML, CSS, JavaScript, React.js, Next.js
+- **Frameworks / CMS: Wordpress
+- **Front-End**: HTML, CSS, JavaScript, React.js, PHP
 - **Back-End**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Others**: RESTful APIs, Version Control (Git & GitHub), Agile Development
