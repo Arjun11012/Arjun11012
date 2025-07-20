@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Designer** and **Web Developer** passionate about creating visually appealing and functional web solutions. I thrive on solving complex problems and bringing ideas to life with code and design.
+**Designer** and **Web Developer** passionate about creating visually appealing and functional web solutions. I thrive on solving complex problems and bringing ideas to life with code and design.
 
 ---
 
